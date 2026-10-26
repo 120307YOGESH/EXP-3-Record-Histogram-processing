@@ -1,4 +1,7 @@
-# Histogram-of-an-images
+# EXP-3-Record-Histogram processing
+
+## Name : YOGESH.S
+## Roll No : 212224230311
 
 ## Aim
 
