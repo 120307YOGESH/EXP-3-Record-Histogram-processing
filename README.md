@@ -33,9 +33,9 @@ Plot and display the histograms of the grayscale image and color image.
 
 ## Program
 
-**Developed By:** SHRIVARSHAN P G
+**Developed By:** YOGESH.S
 
-**Register Number:** 212225240146
+**Register Number:** 212224230311
 
 ```python
 import cv2
